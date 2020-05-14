@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Work
+ * Math
+ * Statistics
+ * Actuarial Science
+* Play
+ * Cycling
+ * Movies
+ * :+1
