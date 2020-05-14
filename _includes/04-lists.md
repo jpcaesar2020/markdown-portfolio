@@ -5,4 +5,4 @@
 * Play
  * Cycling
  * Movies
- * :+1
+ * :computer:
